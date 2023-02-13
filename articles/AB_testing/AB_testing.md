@@ -25,7 +25,7 @@ Finally, A/B testing provides a way to continuously improve machine learning mod
 
 
 <p align="center">
-  <img src="./Ab_testing.jpg" width="550"/>
+  <img src="./Ab_testing.png" width="550"/>
 </p>
 
 ## Why A/B Testing can be an useful tool for a Data Scientist
